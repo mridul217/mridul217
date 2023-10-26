@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 🌟 Let's connect, collaborate, and make the tech world more exciting together!
 
-📫 You can reach me at [mailid](sharma.mridul217@gmail.com) or follow me on [linkedin](https://www.linkedin.com/in/mridul217/).
+📫 You can reach me at [mail-id](mailto:sharma.mridul217@gmail.com) or follow me on [linkedin](https://www.linkedin.com/in/mridul217/).
